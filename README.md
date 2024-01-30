@@ -33,14 +33,12 @@
   ![Stack](https://skillicons.dev/icons?i=gcp,git,postman,bash,cpp,github&perline=50&theme=light)
 
 # GitHub Stats:
-## 📊 General Stats:
-<p align="center">
-  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmirshod&theme=vue&hide_border=false" />
-  <br/>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mmirshod&theme=vue&hide_border=false&include_all_commits=true&count_private=true" />
-  <br>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmirshod&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+## 📊 Contributions:
+  ![mmirshod's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmirshod&theme=vue-dark&hide_border=true)
+## 📊 My Stats:
+  ![mmirshod's Stats](https://github-readme-stats.vercel.app/api?username=mmirshod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## 📊 Most Used Languages:
+  ![mmirshod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmirshod&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 <p align="center">
