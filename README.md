@@ -3,7 +3,7 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me <br>
 
 - 🏢 Current Work
-  - 🔍 Intern ML Engineer @ DUDAJI
+  - 🔍 Looking for opportunities
 - 🚀 Aspirations
   - 🤖 Aspiring Machine Learning Engineer
   - 📊 Future Professional Software Engineer
