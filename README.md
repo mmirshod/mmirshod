@@ -23,7 +23,7 @@
 
 <h3 align="left">Recently, I was busy with...</h3>
 
-![Snake animation](https://github.com/mmirshod/mmirshod/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/mmirshod/mmirshod/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
