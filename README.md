@@ -21,12 +21,6 @@
   - 🌐 Actively contributing to open-source projects
 ###
 
-<h3 align="left">Recently, I was busy with...</h3>
-
-![snake animation](https://github.com/mmirshod/mmirshod/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
 <h3 align="left">But I'm a little lazy ;)</h3>
 
 ---
