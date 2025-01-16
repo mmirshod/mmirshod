@@ -22,10 +22,13 @@
 ###
 
 <h3 align="left">Recently, I was busy with...</h3>
+![snake animation](https://github.com/mmirshod/mmirshod/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
 <h3 align="left">But I'm a little lazy ;)</h3>
+
+---
 
 ###
 
@@ -34,11 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmirshod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h3 align="left">I am tech polyglot!</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -58,6 +59,8 @@
 
 <h3 align="left">Web? Easy!</h3>
 
+---
+
 ###
 
 <div align="left">
@@ -75,6 +78,8 @@
 ###
 
 <h3 align="left">Data & AI? No need to ask!</h3>
+
+---
 
 ###
 
@@ -95,10 +100,12 @@
 ###
 
 <h3 align="left">🤝 Let's Connect</h3>
-  - 👨‍💻 Excited to collaborate on AI, Machine Learning, and Education
-  - 🌟 Open to mentorship opportunities
-  - 📬 Feel free to reach out for a chat or collaboration!<br><br>
 
+- 👨‍💻 Excited to collaborate on AI, Machine Learning, and Education
+- 🌟 Open to mentorship opportunities
+- 📬 Feel free to reach out for a chat or collaboration!<br><br>
+
+---
 
 ###
 
