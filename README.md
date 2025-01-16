@@ -1,51 +1,120 @@
 ![](https://komarev.com/ghpvc/?username=mmirshod&color=blueviolet)
-# <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hello World! <br> <br> I'm Mirshod Makhsudov<br>
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me <br>
+###
 
-- 🏢 Current Work
-  - 🔍 Looking for opportunities
+<p align="center">Welcome to my <code><b>World</b></code>!</p>
+
+###
+
+<h1 align="center"><code>MILDOF</code> is HERE</h1>
+
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Mirshod Makhsudov<br>
+- 🏢 University
+  - 🔍 Inha University in Tashkent (2022 - present)
+  - 🔍 University of Southern Indiana (Fall 2024)
 - 🚀 Aspirations
   - 🤖 Aspiring Machine Learning Engineer
-  - 📊 Future Professional Software Engineer
+  - 📊 Growing Embedded Systems Engineer at DSR Corporation
 - 💡 Personal overview
   - 🌍 Based in the vibrant city of Tashkent, Uzbekistan
-  - 🌱 Passionate about developing the field of AI and Machine Learning
+  - 🌱 Passionate about integration of AI into Embedded Systems
   - 🎓 Constantly learning and exploring new technologies
   - 🌐 Actively contributing to open-source projects
-- 🤝 Let's Connect
+###
+
+<h3 align="left">Recently, I was busy with...</h3>
+
+###
+
+<h3 align="left">But I'm a little lazy ;)</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmirshod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmirshod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">I am tech polyglot!</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
+
+###
+
+<h3 align="left">Web? Easy!</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 align="left">Data & AI? No need to ask!</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<h3 align="left">🤝 Let's Connect</h3>
   - 👨‍💻 Excited to collaborate on AI, Machine Learning, and Education
   - 🌟 Open to mentorship opportunities
   - 📬 Feel free to reach out for a chat or collaboration!<br><br>
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mirshodmakhsudov@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mildof_jk) 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirshod-makhsudov/) 
-    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/mildof_edu)
-  
 
-## 💻 Tech Stack:
-- ### **Web:**
-  ![Stack](https://skillicons.dev/icons?i=figma,html,css,js,react,bootstrap,flask,fastapi&perline=50&theme=light)
-- ### **Database:**
-  ![Stack](https://skillicons.dev/icons?i=sqlite,postgres,mysql,firebase&perline=50&theme=light)
-- ### ML/AI:
-  ![Stack](https://skillicons.dev/icons?i=py,sklearn,anaconda,matlab,tensorflow&perline=50&theme=light)
-- ### Tools:
-  ![Stack](https://skillicons.dev/icons?i=gcp,git,postman,bash,cpp,github&perline=50&theme=light)
 
-# GitHub Stats:
-## 📊 Contributions:
-  ![mmirshod's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmirshod&theme=vue-dark&hide_border=true)
-## 📊 My Stats:
-  ![mmirshod's Stats](https://github-readme-stats.vercel.app/api?username=mmirshod&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-## 📊 Most Used Languages:
-  ![mmirshod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmirshod&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mmirshod&theme=vue&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
-</p>    
+<div align="center">
+  <a href="https://linkedin.com/in/mirshod-makhsudov" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/mildof_edu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="90" height="40" alt="telegram logo"  />
+  </a>
+  <a href="mailto:mirshodmakhsudov@gmail.com?subject=Hello%20from%20GitHub" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/mildof_jk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-## 😂 Random Dev Meme
-<p align="center">
-  <img width="40%" src="https://randommeme-five.vercel.app/">
-</p> 
+###
